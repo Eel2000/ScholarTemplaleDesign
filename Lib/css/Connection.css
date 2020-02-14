@@ -1,0 +1,25 @@
+#form-container{
+    margin: auto;
+    margin-top: 6rem;
+    margin-bottom: 4rem;
+}
+
+form{
+    width: 450px;
+    
+}
+
+#main{
+    margin: auto;
+}
+
+#mainImage{
+    width: 800px;
+    margin-top: 2rem;
+    border-radius: 10px;
+}
+
+body{
+    background-attachment: fixed;
+    background-image: url("../../images/graffiti_447346.jpg");
+}
