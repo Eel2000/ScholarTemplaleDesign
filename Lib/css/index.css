@@ -2,7 +2,7 @@
     background-color: black;
     color: white;
     margin-top: 2rem;
-    height: 400px;
+    height: 350px;
 }
 
 #f-container{
@@ -22,4 +22,16 @@
     margin-right: 2rem;
     margin-left: 2rem;
     margin-top: 1rem;
+}
+
+#f-col{
+    margin-top: 2rem;
+}
+
+/*#jeux{
+    height: 20px;
+}*/
+
+.db{
+    background-attachment: fixed;
 }
